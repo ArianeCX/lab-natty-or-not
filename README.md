@@ -20,32 +20,24 @@ Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisicu
 ### Template
 
 ```markdown
-# Título do Projeto Extremamente Aesthetic ;)
+# IA Kids: Explorando o Futuro com Avatares e Inteligência Artificial
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+Neste projeto, utilizamos a tecnologia de Inteligência Artificial para criar um avatar cativante que gravou um vídeo educativo e divertido sobre o mundo da IA. Todo o processo, desde a criação do texto, a geração do avatar até a gravação do vídeo, foi realizado com ferramentas avançadas de IA.
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+Microsoft Copilot - criação dos textos
+ElevenLabs - gravação do áudio
+D-iD - criação do avatar e do vídeo
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+O texto foi gerado no Microsoft Copilot. No ElevenLabs, através do "Text to speech", este mesmo texto foi transformado em áudio (Gostaria de ter feito a clonagem da voz, mas na versão free não foi possível).
+No D-iD foi feita a criação do avatar e com o upload do áudio gerado no ElevenLabs, foi gerado o vídeo.
+
 
 ## 🚀 Resultados
 Apresente os resultados do seu projeto
 
-## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
-```
+https://github.com/user-attachments/assets/181628b7-7275-4b3e-b40c-aa83aaf082fe
 
-### Exemplos e Insigths
 
-- [E-BOOK](/exemplos/E-BOOK.md)
-- [Podcast](/exemplos/PODCAST.md)
-- [Vídeo (Avatar Virtual)](/exemplos/VIDEO.md)
-
-## Links Interessantes
-
-[Base10: If You’re Not First, You’re Last: How AI Becomes Mission Critical](https://base10.vc/post/generative-ai-mission-critical/)
-
-![Base10's Trend Map Generative AI](https://github.com/digitalinnovationone/lab-natty-or-not/assets/730492/f4df26e8-f8f7-4419-8252-c69d73ea930c)
